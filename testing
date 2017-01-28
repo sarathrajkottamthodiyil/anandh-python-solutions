@@ -1,0 +1,7 @@
+a) s = [" nml","lk", "nmlop", "sxxj", "sarath"]
+
+   i) return list with elements having length => 6
+   ii) return list with elements stripped
+   iii) return only elemnts starts with "nm"
+ #  iv) seperate strings and integers into different lists
+   v) remove first letter  from elements starting with "s" 
